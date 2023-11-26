@@ -4,9 +4,7 @@
 
 Preliminary round of the 2023 Yard Hoof Cup National Vocational College Programming Competition
 
-[传送门](https://www.matiji.net/exam/ojquestionlist?questionBankId=16A92C42378232DEB56179D9C70DC45C)
-
-2023-码蹄杯-全国职业院校程序设计大赛-初赛
+[2023-码蹄杯-全国职业院校程序设计大赛-初赛](https://www.matiji.net/exam/ojquestionlist?questionBankId=16A92C42378232DEB56179D9C70DC45C)
 
 这是初赛三场比赛的代码
 
