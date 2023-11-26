@@ -18,6 +18,6 @@ The-third-scene
 
 都是单独的一个项目。
 
-使用 $CLion-Nova$ 打开。
+使用 CLion Nova 打开。
 
 
