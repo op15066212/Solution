@@ -1,0 +1,4 @@
+"C:\Users\26891\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/26891/AppData/Local/Programs/CLion Nova/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\26891\Desktop\Preliminary round of the 2023 Yard Hoof Cup National Vocational College Programming Competition\The second scene" -B "C:\Users\26891\Desktop\Preliminary round of the 2023 Yard Hoof Cup National Vocational College Programming Competition\The second scene\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/26891/Desktop/Preliminary round of the 2023 Yard Hoof Cup National Vocational College Programming Competition/The second scene/cmake-build-debug
