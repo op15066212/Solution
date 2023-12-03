@@ -10,7 +10,8 @@ public:
 
     P() = default;
 
-    P(int val, int index) : val(val), index(index) {}
+    P(int val, int index) : val(val), index(index) {
+    }
 };
 
 void solve() {
@@ -30,15 +31,10 @@ void solve() {
     string a;
     int b = INT_MAX;
     int minIndex = INT_MAX;
-    for (const auto &[key, P]: arr) {
+    for (const auto&[key, P]: arr) {
         int val = P.val;
         int index = P.index;
-        if (val < b) {
-            b = val;
-            a = key;
-            minIndex = index;
-        }
-        if (val == b && index < minIndex) {
+        if (val < b || (val == b && index < minIndex)) {
             b = val;
             a = key;
             minIndex = index;
