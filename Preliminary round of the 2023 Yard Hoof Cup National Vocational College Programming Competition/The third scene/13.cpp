@@ -12,20 +12,13 @@ void solve() {
     for (int i = 0; i < n; i++) {
         cin >> box[i];
     }
-    unordered_set<char> mp1;
-    unordered_set<char> mp2;
+    unordered_set<char> mp;
     for (int i = 0; i < n; i++) {
-        if (mp1.find(box[i][i]) != mp1.end()) {
+        if (mp.find(box[i][i]) != mp.end()) {
             cout << "refuse" << endl;
             return;
         }
-        mp1.insert(box[i][i]);
-    }
-    for (int i = 0; i < n; i++) {
-        if (mp2.find(box[i][n - 1 + i]) != mp2.end()) {
-            cout << "refuse" << endl;
-            return;
-        }
+        mp.insert(box[i][i]);
     }
     cout << "accept" << endl;
 }
