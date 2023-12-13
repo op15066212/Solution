@@ -18,22 +18,20 @@ C++ 使用 CLion Nova 打开
 
 Python 使用 PyCharm 打开
 
-The-first-scene---13 题
+## 第一场---13 题
 
-![第一场](https://github.com/op15066212/Solution/assets/108321891/453b6d0d-780b-4bab-b172-267a94f10c3c)
+<img src=https://github.com/op15066212/Solution/assets/108321891/453b6d0d-780b-4bab-b172-267a94f10c3c width = "60%" height = "60%" alt="第一场" align=center />
 
-The-second-scene---13 题
+## 第二场---13 题
 
-![第二场](https://github.com/op15066212/Solution/assets/108321891/8ab7737c-42ec-4575-8193-6234ac86c218)
+<img src=https://github.com/op15066212/Solution/assets/108321891/8ab7737c-42ec-4575-8193-6234ac86c218 width = "60%" height = "60%" alt="第二场" align=center />
 
-The-third-scene---13 题 
+## 第三场---13 题 
 
-![第三场](https://github.com/op15066212/Solution/assets/108321891/227d7303-b1bd-4503-a256-328fe0f354dd)
+<img src=https://github.com/op15066212/Solution/assets/108321891/227d7303-b1bd-4503-a256-328fe0f354dd width = "60%" height = "60%" alt="第三场" align=center />
 
-The-end-scene---15 题
+## 决赛---15 题
 
-![决赛](https://github.com/op15066212/Solution/assets/108321891/4a5e4080-b656-42ee-ab8a-45c78188a3c0)
-
-
+<img src=https://github.com/op15066212/Solution/assets/108321891/3a5c5a86-7771-4686-a6e3-aa595aab5154 width = "60%" height = "60%" alt="决赛" align=center />
 
 
