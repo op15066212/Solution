@@ -16,7 +16,7 @@ void solve() {
     // a * b * c <= n 变化一下就是 c <= n / a / b
     // a * a * b <= n 变化一下就是 b <= n / a / a
     // a * b * b <= n 变化一下就是 b <= sqrt(n / a)
-    for (int a = 1; a * a * a <= n; a++) {
+    for (int a = 1; a * a * a <= n; a++, ans %= 3333) {
         ans += 3 * (n / a / a - a);
         ans += 3 * ((int) sqrt(n / a) - a);
         ans += 1;
