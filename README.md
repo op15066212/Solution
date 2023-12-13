@@ -2,24 +2,38 @@
  
  这是存放题解的仓库
 
-Preliminary round of the 2023 Yard Hoof Cup National Vocational College Programming Competition
+2023-yard-hoof-cup
 
-[2023-码蹄杯-全国职业院校程序设计大赛-初赛](https://www.matiji.net/exam/ojquestionlist?questionBankId=16A92C42378232DEB56179D9C70DC45C)
+[2023-码蹄杯-全国职业院校程序设计大赛](https://www.matiji.net/exam/ojquestionlist?questionBankId=16A92C42378232DEB56179D9C70DC45C)
 
-这是三场初赛比赛的代码
+前 39 题是三场初赛，每一场 13 题。
 
-也就是前 39 题的代码，每一场 13 题。
+第 40 题到 54 题，是决赛的题 15 题，里面有两道很难的题我没做，后面再补吧。
 
-![image](https://github.com/op15066212/Solution/assets/108321891/4e4aacd3-d643-4add-99fb-5ece9a377b35)
+决赛的题，我写了 C++ 和 Python 两种版本，但是同样的代码，Python 有几题过不了。
 
-The-first-scene
+![image](https://github.com/op15066212/Solution/assets/108321891/c66c5db4-b66c-46a3-aadb-a714912ee53f)
 
-The-second-scene
+C++ 使用 CLion Nova 打开
 
-The-third-scene 
+Python 使用 PyCharm 打开
 
-都是单独的一个项目
+The-first-scene---13 题
 
-使用 CLion Nova 打开
+![第一场](https://github.com/op15066212/Solution/assets/108321891/453b6d0d-780b-4bab-b172-267a94f10c3c)
+
+The-second-scene---13 题
+
+![第二场](https://github.com/op15066212/Solution/assets/108321891/8ab7737c-42ec-4575-8193-6234ac86c218)
+
+The-third-scene---13 题 
+
+![第三场](https://github.com/op15066212/Solution/assets/108321891/227d7303-b1bd-4503-a256-328fe0f354dd)
+
+The-end-scene---15 题
+
+![决赛](https://github.com/op15066212/Solution/assets/108321891/4a5e4080-b656-42ee-ab8a-45c78188a3c0)
+
+
 
 
