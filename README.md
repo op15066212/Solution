@@ -2,8 +2,6 @@
  
  这是存放题解的仓库
 
-2023-yard-hoof-cup
-
 [2023-码蹄杯-全国职业院校程序设计大赛](https://www.matiji.net/exam/ojquestionlist?questionBankId=16A92C42378232DEB56179D9C70DC45C)
 
 前 39 题是三场初赛，每一场 13 题。
