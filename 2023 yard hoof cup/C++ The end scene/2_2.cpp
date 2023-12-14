@@ -23,15 +23,13 @@ int find(const string&it) {
 void solve() {
     string A, B;
     cin >> A >> B;
-    int a = find(A);
-    int b = find(B);
-    A = A.substr(a) + A.substr(0, a);
-    B = B.substr(b) + B.substr(0, b);
-    if (A == B) {
-        cout << "Yes\n" + A << endl;
-    } else {
+    if (A.size() != B.size() || (A + A).find(B) == -1) {
         cout << "No" << endl;
+        return;
     }
+    int a = find(A);
+    A = A.substr(a) + A.substr(0, a);
+    cout << "Yes\n" + A << endl;
 }
 
 auto main() -> signed {

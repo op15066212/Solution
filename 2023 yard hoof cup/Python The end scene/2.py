@@ -20,16 +20,13 @@ def find(it: str) -> int:
 def solve():
     A = input()
     B = input()
-    a = find(A)
-    b = find(B)
-    A = A[a:] + A[:a]
-    B = B[b:] + B[:b]
-    if A == B:
-        print("Yes")
-        print(A)
-    else:
+    if len(A) != len(B) or B not in 2 * A:
         print("No")
-
+        return
+    a = find(A)
+    A = A[a:] + A[:a]
+    print("Yes")
+    print(A)
 
 if __name__ == "__main__":
     solve()
