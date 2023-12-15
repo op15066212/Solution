@@ -6,7 +6,7 @@
 
 前 39 题是三场初赛，每一场 13 题。
 
-第 40 题到 54 题，是决赛的题 15 题，里面有两道很难的题我没做，后面再补吧。
+第 40 题到 54 题，是决赛的题，共 15 题。
 
 决赛的题，我写了 C++ 和 Python 两种版本，但是同样的代码，Python 有几题过不了。
 
@@ -30,6 +30,6 @@ Python 使用 PyCharm 打开
 
 ## 决赛---15 题
 
-<img src=https://github.com/op15066212/Solution/assets/108321891/3a5c5a86-7771-4686-a6e3-aa595aab5154 width = "60%" height = "60%" alt="决赛" align=center />
+<img src=https://github.com/op15066212/Solution/assets/108321891/8d7b12b0-ac3e-406d-b393-b1efb48c3572 width = "60%" height = "60%" alt="决赛" align=center />
 
 
